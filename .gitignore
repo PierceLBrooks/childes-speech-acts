@@ -1,4 +1,5 @@
 data/*
+data_annotated/*
 formatted/*
 ttv/*
 .DS_Store
